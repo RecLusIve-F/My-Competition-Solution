@@ -12,7 +12,7 @@
 | IFLY 基于用户画像的商品推荐挑战赛 | 2021.6 - 2021.10  |   Structure    | [Public](https://github.com/RecLusIve-F/IFLY-User-Portrait-Solution) |  Prizes   |   Team    |   12 / 1698    |
 |     IFLY 蛋白质结构预测挑战赛     | 2021.6 - 2021.10  |    Sequence    | [Public](https://github.com/RecLusIve-F/IFLY-Protein-Solution) |  Prizes   |   Solo    |   25 / 1107    |
 |       三一数据应用创新大赛        |  2021.5 - 2021.6  |   Structure    |                         [Private]()                          |  Prizes   |   Solo    |       NA       |
-|    华为软件精英挑战赛区域初赛     |  2021.2 - 2021.4  |   Algorithm    |                          [Public]()                          |  Prizes   |   Team    |    72 / 122    |
+|    华为软件精英挑战赛区域初赛     |  2021.2 - 2021.4  |   Algorithm    |  [Public](https://github.com/RecLusIve-F/HWCodeCraft-2021)   |  Prizes   |   Team    |    72 / 122    |
 
 * NA = GG or 弃赛
 * UK = 参赛人数未知
